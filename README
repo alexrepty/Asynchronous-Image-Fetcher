@@ -1,0 +1,3 @@
+Demonstrates the use of NSOperation to fetch content from remote locations (i.e. image from a web server).
+
+Full tutorial: http://blog.proculo.de/archives/175-Asynchronous-Networking-Using-NSOperation-And-Delegates.html
